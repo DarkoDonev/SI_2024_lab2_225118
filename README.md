@@ -12,5 +12,5 @@ P - br na povrzani komponenti
 ![Book-1](https://github.com/DarkoDonev/SI_2024_lab2_225118/assets/131868737/5a5526d6-f08e-4c19-969d-bab5453275de)
 
 ## 5.
-![Book1-1](https://github.com/DarkoDonev/SI_2024_lab2_225118/assets/131868737/e8eb597e-ada1-4ae1-bd96-3be17c49bbb2)
+![2024-05-26](https://github.com/DarkoDonev/SI_2024_lab2_225118/assets/131868737/78f22fac-a17e-4cdc-b4d1-9031d9ae4062)
 
